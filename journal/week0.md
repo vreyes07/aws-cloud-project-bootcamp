@@ -1,1 +1,2 @@
 # Week 0 — Billing and Architecture
+This week i mostly studied about aws budgets, alarms, billing and aws free tier. I also made a couple a test with this services creating and configuring diferents alarms and budgets as a proof of concepts. I already have an aws account and have have had used MFA on it before. 
